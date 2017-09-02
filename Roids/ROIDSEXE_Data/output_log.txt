@@ -1,0 +1,152 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   21.21.13.7651
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Meghana Seshadri\Desktop\CIS568_GameDesign\Tutorial\Roids-Github\CIS568-Asteroids-Unity\Roids\ROIDSEXE_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.170 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.306859 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2108 -> priority: 1 
+  Thread -> id: 1f60 -> priority: 1 
+  Thread -> id: 3034 -> priority: 1 
+  Thread -> id: 306c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.242632 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.264802 ms (FindLiveObjects: 0.028327 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.212252 ms  DeleteObjects: 0.007800 ms)
+
+Fire! 22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! 62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -108
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -128
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -178
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -210
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -228
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -242
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -258
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -272
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -304
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -318
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -334
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -350
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -366
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -382
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -398
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -414
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -428
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -470
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -502
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fire! -522
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
